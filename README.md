@@ -122,10 +122,3 @@ Now to use mapping `Ctrl+A` for local or server configuration you will need to u
 - after
 
 ![menu](pictures/Screenshot_7.png)
-
-
-
-
-
-
-
