@@ -22,6 +22,7 @@
     <h1>Beautiful color space by</h1>
     <a href="https://github.com/arcticicestudio">Arctic Ice Studio</a>
 </div>
+
 ![NONVME WM](pictures/screenshot_1.gif)
 
 The nord theme may not seem contrasting enough to you [(issue #195)](https://github.com/arcticicestudio/nord-vim/issues/195) and you'd be right. The [script](.config/polybar/brightnessdesktop.sh) is used to change the gamma, when you raise the brightness in monitor to max.
