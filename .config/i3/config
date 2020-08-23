@@ -22,7 +22,7 @@ for_window [title="Library"] floating enable
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
-exec --no-startup-id udiskie -tN -f $HOME/.config/polybar/udiskie_to_ranger.sh 
+exec --no-startup-id udiskie -tN -f $HOME/.config/polybar/udiskie_to_ranger.sh
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
